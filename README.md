@@ -1,2 +1,1 @@
-# Super-code
-Código desenvolvido como forma de aprendizagem.
+# repositório de Kaio JS
